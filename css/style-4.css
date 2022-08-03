@@ -1,0 +1,15 @@
+.sec5 {
+    background: linear-gradient(to right top, #79847d, #333535);
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+video {
+    width: 80%;
+    height: 80%;
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

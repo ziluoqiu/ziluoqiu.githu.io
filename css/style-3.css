@@ -1,0 +1,24 @@
+.sec3 {
+    background: linear-gradient(to right top, #79847d, #333535);
+    min-height: 100vh;
+    background-size: 100%;
+}
+
+.sec3 .slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec3 .slide img {
+    height: 80%;
+    border-radius: 25px;
+    box-shadow: 0 1px 40px -10px #000;
+}
+
+.sec3 .slide p {
+    color: #0feed1;
+    font-size: 10px;
+    font-weight: 700;
+    margin: 20px auto 0;
+}
